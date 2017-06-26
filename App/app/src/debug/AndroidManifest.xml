@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--エミュレータで擬似の位置情報を取得するため以下を追加-->
+    <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
+</manifest>
